@@ -1,4 +1,4 @@
-# Scikitlearn_Solar_Prediction
+# Scikit-learn_Solar_Prediction
 
 Este repositorio contiene un trabajo realizado en la asignatura de **Aprendizaje Automático** de mi grado en Estadística y Empresa. El trabajo ha sido realizado en un archivo `.ipynb` (notebook de Jupyter), mientras que los datos se encuentran en formato .feather
 
